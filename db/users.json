@@ -1,0 +1,76 @@
+{
+	"users": [
+		{
+			"balance": 7460.0,
+			"fristname": "Han",
+			"lastname": "Solo",
+			"pass_sh1": "16795633e2c1543064a3ad70ac3ba71d3d589b3b",
+			"positions": [
+				{
+					"Open": 3,
+					"symbol": "AAPL"
+				},
+				{
+					"Open": 1,
+					"symbol": "AMZN"
+				}
+			],
+			"username": "hs"
+		},
+		{
+			"balance": 190.5,
+			"fristname": "Ellen",
+			"lastname": "Ripley",
+			"pass_sh1": "593b743b207e10ff55ec63e71a46c07909d0880a",
+			"positions": [
+				{
+					"Open": 2,
+					"symbol": "MSFT"
+				},
+				{
+					"Open": 2,
+					"symbol": "INTC"
+				}
+			],
+			"username": "el"
+		},
+		{
+			"balance": 9770.0,
+			"fristname": "John",
+			"lastname": "Wick",
+			"pass_sh1": "d2edfc4bb451960bb8e9f22218a4f762327b8d55",
+			"positions": [
+				{
+					"Open": 1,
+					"symbol": "RTX"
+				},
+				{
+					"Open": 2,
+					"symbol": "GD"
+				}
+			],
+			"username": "jw"
+		},
+		{
+			"balance": 40.69,
+			"fristname": "Buzz",
+			"lastname": "Lightyear",
+			"pass_sh1": "cba41814177bf41ca66b0ad5f8f1f0a2db896948",
+			"positions": [
+				{
+					"Open": 50,
+					"symbol": "DIS"
+				}
+			],
+			"username": "bl"
+		},
+		{
+			"balance": 6584.87,
+			"fristname": "Elle",
+			"lastname": "Woods",
+			"pass_sh1": "676e6f35cfc173f73fea9fe27699cf8185397f0c",
+			"positions": [],
+			"username": "ew"
+		}
+	]
+}
